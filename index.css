@@ -18,6 +18,11 @@ body{
     padding: 10px;
 }
 
+#webpage-heading{
+    margin: 20px;
+    padding: 30px;
+}
+
 #webpage-heading-image{
     display: block;
     margin: 0 auto; 
