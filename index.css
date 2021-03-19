@@ -49,5 +49,7 @@ body{
 .query-button{
     margin: 10px;
     padding: 10px;
+    background-color:aliceblue;
+    color:dimgray;
 }
 
