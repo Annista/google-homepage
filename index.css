@@ -51,5 +51,7 @@ body{
     padding: 10px;
     background-color:aliceblue;
     color:dimgray;
+    border-style: hidden;
+    border-radius: 5px;
 }
 
