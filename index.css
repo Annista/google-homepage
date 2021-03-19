@@ -13,3 +13,8 @@ body{
     display: inline;
 }
 
+.navbar-link{
+    text-decoration: none;
+    padding: 10px;
+}
+
