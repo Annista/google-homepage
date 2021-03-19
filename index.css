@@ -28,3 +28,8 @@ body{
     margin: 0 auto; 
 }
 
+#input-query-div{
+    display: flex;
+    justify-content: center;
+}
+
