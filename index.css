@@ -59,3 +59,9 @@ button:hover{
     border: 2px solid grey;
  }
 
+ .webpage-footer{
+    background-color: ivory; 
+    position: fixed;
+    margin: auto;
+ }
+
