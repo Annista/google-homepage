@@ -38,10 +38,11 @@ body{
 }
 
 #search-box{
-    width: 500px;
-    height: 35px;
+    width: 570px;
+    height: 45px;
     border-radius: 25px;
     border: 1px solid thistle;
+    margin: 15px 0px;
 }
 
 #button-div{
