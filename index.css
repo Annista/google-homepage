@@ -18,6 +18,10 @@ body{
     padding: 10px;
 }
 
+#webpage-main{
+    margin: 100px 0px 0px 0px;
+}
+
 #webpage-heading{
     margin: 20px;
     padding: 30px;
@@ -43,7 +47,6 @@ body{
 #button-div{
     display: flex;
     justify-content: center;
-   
 }
 
 .query-button{
@@ -62,6 +65,8 @@ button:hover{
  .webpage-footer{
     background-color: ivory; 
     position: fixed;
+    bottom: 0px;
     margin: auto;
+    
  }
 
