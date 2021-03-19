@@ -66,8 +66,15 @@ button:hover{
  .webpage-footer{
     background-color: ivory; 
     position: fixed;
-    bottom: 0px;
     margin: auto;
     
+ }
+
+ #webpage-footer-one{
+     bottom: 40px;
+ }
+
+ #webpage-footer-two{
+     bottom: 0px;
  }
 
