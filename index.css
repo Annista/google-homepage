@@ -78,3 +78,8 @@ button:hover{
      bottom: 0px;
  }
 
+ #webpage-footer-two li{
+     display: inline;
+     list-style: none;
+ }
+
