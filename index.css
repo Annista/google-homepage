@@ -70,12 +70,14 @@ button:hover{
     
  }
 
- #webpage-footer-one{
+ #webpage-footer-one{    
      bottom: 60px;
+     width: 100%;
  }
 
  #webpage-footer-two{
      bottom: 0px;
+     width: 100%;
  }
 
  #webpage-footer-two li{
