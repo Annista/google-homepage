@@ -43,6 +43,9 @@ body{
     border-radius: 25px;
     border: 1px solid thistle;
     margin: 15px 0px;
+    outline: none;
+    font-size: 17px;
+    padding: 0px 35px;
 }
 
 #button-div{
