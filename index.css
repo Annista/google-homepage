@@ -92,4 +92,13 @@ button:hover{
 
  }
 
+ .footer-link{
+    text-decoration: none;
+}
+
+.footer-text{
+    font-size: 15px;
+}
+
+
 
