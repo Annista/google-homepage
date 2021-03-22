@@ -73,15 +73,23 @@ button:hover{
  #webpage-footer-one{    
      bottom: 60px;
      width: 100%;
+     padding: 15px 38px;
  }
 
  #webpage-footer-two{
      bottom: 0px;
-     width: 100%;
+     width: 98%;
+     display: flex;   
+    justify-content:space-between;
+    
+    
+    
  }
 
  #webpage-footer-two li{
     display: inline;
     
  }
+
+
 
