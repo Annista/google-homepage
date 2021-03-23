@@ -16,6 +16,9 @@ body{
 .navbar-link{
     text-decoration: none;
     padding: 10px;
+    color:black;
+    opacity: 0.87;
+    font-size: 13px;
 }
 
 #webpage-main{
