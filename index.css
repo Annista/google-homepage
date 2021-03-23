@@ -70,26 +70,26 @@ button:hover{
  }
 
  .webpage-footer{
-    background-color: ivory; 
+    background-color: lightgrey;
+    opacity: 0.4; 
     position: fixed;
     margin: auto;
+    width: 100%;
+    left: 0;
     
  }
 
  #webpage-footer-one{    
-     bottom: 60px;
+     bottom: 45px;
      width: 100%;
      padding: 15px 45px;
  }
 
  #webpage-footer-two{
      bottom: 0px;
-     width: 98%;
      display: flex;   
     justify-content:space-between;
-    
-    
-    
+   
  }
 
  #webpage-footer-two li{
@@ -104,6 +104,8 @@ button:hover{
 
 .footer-text{
     font-size: 15px;
+    color:black;
+    opacity: 1;
 }
 
 
