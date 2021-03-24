@@ -72,7 +72,8 @@ body{
 }
 
 button:hover{
-    border: 2px solid grey;
+    box-shadow: 0 1px rgb(0 0 0 / 10%);
+    border: 2px solid #dadce0;
  }
 
  .webpage-footer{
