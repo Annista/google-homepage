@@ -68,6 +68,7 @@ body{
     opacity: 0.8;
     border-style: hidden;
     border-radius: 5px;
+    border:2px solid transparent;
 }
 
 button:hover{
