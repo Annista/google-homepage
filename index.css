@@ -21,6 +21,10 @@ body{
     font-size: 13px;
 }
 
+.navbar-link:hover{
+    text-decoration: underline;
+}
+
 #webpage-main{
     margin: 100px 0px 0px 0px;
 }
