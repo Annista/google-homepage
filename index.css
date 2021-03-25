@@ -28,6 +28,8 @@ body{
 .navbar-img{
    width: 35px;
    height: 35px;
+   display: inline-block;
+   vertical-align: middle;
 }
 
 #profile-img{
