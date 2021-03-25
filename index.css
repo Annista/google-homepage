@@ -30,6 +30,10 @@ body{
    height: 35px;
 }
 
+#profile-img{
+    border-radius: 50%;
+}
+
 #webpage-main{
     margin: 100px 0px 0px 0px;
 }
