@@ -48,6 +48,9 @@ body{
     height: 24px;
 }
 
+#profile-div{
+    display: inline-block;
+} 
 
 #profile-img{
     border-radius: 50%;
