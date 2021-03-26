@@ -43,6 +43,11 @@ body{
    display: inline-block;
    vertical-align: middle;
 }
+#app-icon-img{
+    width: 24px;
+    height: 24px;
+}
+
 
 #profile-img{
     border-radius: 50%;
