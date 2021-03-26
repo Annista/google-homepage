@@ -31,6 +31,10 @@ body{
     height: 40px;
 }
 
+.img-link:hover{
+    background-color: lightgrey;
+ }
+
 .navbar-img{
    width: 35px;
    height: 35px;
