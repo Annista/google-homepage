@@ -53,6 +53,10 @@ body{
     display: inline-block;
 } 
 
+#profile-div .img-link{
+    padding: 4px;
+}
+
 #profile-img{
     border-radius: 50%;
 }
