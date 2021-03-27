@@ -91,6 +91,11 @@ body{
     padding: 0px 35px;
 }
 
+#search-box:hover{
+    box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
+    border-color: rgba(223, 225, 229, 0);
+}
+
 #button-div{
     display: flex;
     justify-content: center;
