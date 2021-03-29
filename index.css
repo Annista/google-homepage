@@ -35,7 +35,7 @@ body{
 }
 
 .img-link:hover{
-    background-color: lightgrey;
+    background-color: rgb(32 33 36 / 8%); 
  }
 
 .navbar-img{
